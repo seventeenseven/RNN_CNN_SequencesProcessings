@@ -1,6 +1,6 @@
 # DeepLearning_RNN_CNN_SequencesProcessings
 
-This project focuses on emulated time series sequence processing using recurrent neural networks (RNNs) and LSTM (Long Short Term-Memory) for forecasting. We also tackle the SketchRNN Dataset with convolutional neural networks (CNNs) model to predict more than 50 classes. It provides a Jupyter notebook to explore these sequence processing techniques.
+This project focuses on processing emulated time series sequences using Recurrent Neural Networks (RNNs) and Long Short Term-Memory (LSTMs) for forecasting. It also addresses the SketchRNN dataset with Convolutional Neural Network (CNN) models to predict over 50 classes. It provides a Jupyter notebook to explore these sequence processing techniques.
 
 ## Main points of functionality
 * Use of RNN, in particular LSTM networks, for processing sequences
